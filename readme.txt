@@ -1,0 +1,1 @@
+Git course is a text repository.
