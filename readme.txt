@@ -1,5 +1,11 @@
 Git course is a text repository
 
+comandos chave:
+#add--commit--git clone
+#remote add--git push--fork--pull request
+
+hash: número do commit
+
 git log:
 varias informações podem ser buscadas pelo git log
 --> git log --decorate
@@ -23,3 +29,5 @@ adiciona um repositório remoto no servidor
 
 git push -u qualquernome master
 (adiciona os arquivos)
+
+SERÁ QUE VAI PRO REPOSITÓRIO!////
