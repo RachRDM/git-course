@@ -6,6 +6,8 @@ comandos chave:
 
 hash: número do commit
 
+git branch -D NomeDoBranch --> Deleta o Branch
+
 git log:
 varias informações podem ser buscadas pelo git log
 --> git log --decorate
