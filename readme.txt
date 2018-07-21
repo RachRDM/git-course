@@ -27,14 +27,12 @@ mostra as mudanças após o commit.
 git push: 
 envia os arquivos comitados para o diretorio remoto
 
+git checkout NomeDoArquivo: apaga as últimas mudanças do arquivo no estado modified
 git checkout NomeDaBranch: muda de branch
 
 git checkout -b NomeBranch: cria nova branch
 
 git pull:  incorpora mudanças de um repositório remoto para o branch local;
-
-git checkout:
-retorna o arquivo para versão anterior(apaga mudanças);
 
 git remote add qualquernome URL:
 adiciona um repositório remoto no servidor
@@ -42,4 +40,4 @@ adiciona um repositório remoto no servidor
 git push -u qualquernome master
 (adiciona os arquivos ao repositório remoto)
 
-SERÁ QUE VAI PRO REPOSITÓRIO!////
+git reset HEAD NomeDoAquivo: volta o arquivo pro estado anterior;
